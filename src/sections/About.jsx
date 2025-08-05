@@ -93,6 +93,7 @@ grid xl:grid-cols-3
                 ]}
               />
             </div>
+
             <div>
               <p className="grid-headtext">
                 I work remotely from most of timeZone
@@ -100,7 +101,7 @@ grid xl:grid-cols-3
               <p className="grid-subtext">
                 I'm based in UAE, &nbsp; with remote work available
               </p>
-              <Button name="Contect Me" isBeam containerClass="w-full mt-10" />
+              <Button name="Contact Me" isBeam containerClass="w-full mt-10" />
             </div>
           </div>
         </div>
