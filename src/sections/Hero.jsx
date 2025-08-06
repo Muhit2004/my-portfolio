@@ -9,7 +9,7 @@ import Target from "../Components/Target.jsx";
 import ReactLogo from "../Components/ReactLogo.jsx";
 import Cube from "../Components/Cube.jsx";
 import Rings from "../Components/Rings.jsx";
-import HeroCamera from "../Components/HeroCamera.jsx";
+import HeroCamera from "../../../../OneDrive/Desktop/My-Portfolio1/src/Components/HeroCamera.jsx";
 import Button from "../Components/Button.jsx";
 const Hero = () => {
   const isSmall = useMediaQuery({ minWidth: 440, maxWidth: 768 });
