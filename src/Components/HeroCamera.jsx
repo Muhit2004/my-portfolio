@@ -1,6 +1,6 @@
 import React, { useRef } from 'react'
 import { useFrame } from '@react-three/fiber'
-import HackerRoom from './HackersRoom'
+import HackerRoom from '../../../../../WebstormProjects/my-portfolio1/src/Components/HackersRoom.jsx'
 
 const HeroCamera = (props) => {
 
